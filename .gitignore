@@ -1,0 +1,4 @@
+.env
+stockenv/
+__pycache__/
+*.pyc
