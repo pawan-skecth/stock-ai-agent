@@ -1,0 +1,12 @@
+streamlit
+yfinance
+plotly
+pandas
+numpy
+langgraph
+langchain
+python-dotenv
+supabase
+requests
+ta
+scikit-learn
